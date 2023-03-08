@@ -1,4 +1,4 @@
-# dl-textstrcture_analyse
+﻿# dl-textstrcture_analyse
 
 
 
@@ -11,7 +11,7 @@
 |Approach_Act|||
 |ARTICLE_STONE|||
 |ASE_EMO|||
-|ASE_jump|||
+|ASE_jump|Character jump with feel embarrassed？|立绘跳动并显示流汗的表情？|
 |AURA_DARK|||
 |AURA_DARK_POS|||
 |AURA_DARK_POS_SE|||
@@ -170,8 +170,8 @@
 |chara_contrast|||
 |CHARA_EMO|||
 |chara_emotion|||
-|chara_face|||
-|chara_fadein|||
+|chara_face|Set Character's Face|设置角色面部表情|
+|chara_fadein|Character's Vertical painting fadeout|角色立绘淡出|
 |CHARA_FADEIN_DEF|||
 |chara_fadeout|||
 |CHARA_FADEOUT_DEF|||
@@ -204,7 +204,7 @@
 |chara_pos|||
 |CHARA_RESET|||
 |chara_saturation|||
-|CHARA_SET|||
+|CHARA_SET|Set Character's Vertical painting and Facial expression|设定角色的立绘及面部表情|
 |CHARA_SET_0|||
 |CHARA_SET_01|||
 |CHARA_SET_ao|||
@@ -302,12 +302,12 @@
 |HAPPY|||
 |HATENA_EMO|||
 |HEART_EMO|||
-|HEART_jump|||
+|HEART_jump|Character jump with Flipped？|立绘跳动并显示心动的表情？|
 |HIRAMEKI_EMO|||
-|HIRAMEKI_jump|||
+|HIRAMEKI_jump|？|？|
 |if|||
 |IKARI_EMO|||
-|IKARI_jump|||
+|IKARI_jump|Character jump with Angry？|立绘跳动并显示愤怒的表情？|
 |JUMP_OUT_DEF|||
 |KAMITE_IN_DEF|||
 |KAMITE_IN_FAST|||
@@ -363,24 +363,24 @@
 |NED_SET|||
 |NED_SET_FIRST|||
 |Negaposi|||
-|next_area|||
+|next_area|Next Area(Scene)|下一场景|
 |next_page|||
 |NO_EFFECT|||
 |NO_EMO|||
 |no_need_touch_wait|||
 |ODOROKI_EMO|||
-|ODOROKI_jump|||
+|ODOROKI_jump|Character jump with Surprised？|立绘跳动并显示惊讶的表情？|
 |OL_LEFT|||
 |OL_TITLE|Synopsis|剧情梗概|
 |ONPU_EMO|||
-|ONPU_jump|||
-|outline|||
+|ONPU_jump|Character jump with Eighth note(Usually used to express feel happy)？|立绘跳动并显示惊讶的表情(通常用来表示开心)？|
+|outline|Synopsis Contents|剧情梗概内容|
 |outline_title|Synopsis(OE)|剧情梗概(旧版)|
 |panpan|||
 |phelia_Move|||
-|play_sound|||
+|play_sound|Play Sound/Character Voice|播放音效/语音|
 |post_film|||
-|print|Print Dialogue|显示台词|
+|print|Print Dialogue/Role Name/Play Character Voice|显示台词/角色名称/播放角色语音|
 |REPEL_KNIFE|||
 |Reset|||
 |RESET_SCREEN|||
@@ -480,7 +480,7 @@
 |WAKI_SET_0|||
 |WALK_THROUGH|||
 |WARAI_EMO|||
-|WARAI_jump|||
+|WARAI_jump|Character jump with smile？|立绘跳动并显示笑的表情？|
 |WARP_IN|||
 |WARP_OUT|||
 |WARP_OUT_EFF|||
